@@ -20,4 +20,4 @@ Dashboard Interactions <a href =https://github.com/Manikandan23-tech/-ODI-Cricke
 - Merge all pivot tables into one dashboard.
 
   ## Dashboard
-  <img width="1454" height="705" alt="Dashboard" src="https://github.com/user-attachments/assets/33af9b8c-9010-4441-aea6-c9f3d2347edf" />
+  <a href="https://github.com/Manikandan23-tech/-ODI-Cricket-Batting-Records-1990-2024-Excel-Dashboard-/blob/main/Cricket_Analytics_Dashboard_v2.pdf"> Individual Dashboards </a>
