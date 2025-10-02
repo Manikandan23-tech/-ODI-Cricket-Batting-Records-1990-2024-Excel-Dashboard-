@@ -19,6 +19,15 @@ Dashboard Interactions <a href ="https://github.com/Manikandan23-tech/-ODI-Crick
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard.
 
-  ## Dashboard
+## Dashboard
   <img width="1454" height="705" alt="Dashboard" src="https://github.com/user-attachments/assets/b245d38a-ac0e-48af-a684-63201d5d3d02" />
 
+## Project Insight
+- Sachin Tendulkar leads the list with a significant margin, followed by players like Kumar Sangakkara and Virat Kohli. This highlights Tendulkar's consistent run-scoring ability over his career.
+- Shubman Gill leads in batting average, with other notable players like Virat Kohli and Babar Azam closely following. This indicates strong consistent batting performance among contemporary players.
+- Shahid Afridi and other aggressive batsmen such as NLTC Perera and JJ Roy top this list, showcasing their ability to score quickly and impact the game at a fast pace.
+- Chris Gayle and AB de Villiers are tied for the highest share of centuries, with Virat Kohli and Kumar Sangakkara also contributing significantly. It reflects their ability to play big innings frequently.
+-  ST Jayasuriya holds the record for most ducks, followed by Shahid Afridi and DPMD Jayawardene, showing that even great players can have dismissals without scoring.
+
+## Final Conclusion:
+The dashboard reveals a comprehensive picture of ODI performance, highlighting not only the run-scoring legends but also the nuances in batting style through averages, strike rates, centuries, and ducks. It emphasizes the diversity in player roles—from consistent high scorers like Tendulkar and Kohli to fast scorers like Afridi, and also reflects the occasional vulnerabilities players face with ducks. This multidimensional analysis helps cricket enthusiasts and analysts understand player strengths and career impacts in ODI cricket deeply.
