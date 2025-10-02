@@ -11,7 +11,7 @@ This project analyzes ODI cricket batting records from 1990 to 2024 using Excel.
 4. Most ODI Centuries?
 5. Top 10 players who are all gets most ODI duck out ?
 
-Dashboard Interactions <a href =https://github.com/Manikandan23-tech/-ODI-Cricket-Batting-Records-1990-2024-Excel-Dashboard-/blob/main/Dashboard.png> View Dashboard </a>
+Dashboard Interactions <a href ="https://github.com/Manikandan23-tech/-ODI-Cricket-Batting-Records-1990-2024-Excel-Dashboard-/blob/main/Cricket_Analytics_Dashboard_v2.pdf"> View Individual Dashboard </a>
 
 ## Process
 - Verify data for any missing values and anomalies,and sort out the same.
@@ -20,4 +20,5 @@ Dashboard Interactions <a href =https://github.com/Manikandan23-tech/-ODI-Cricke
 - Merge all pivot tables into one dashboard.
 
   ## Dashboard
-  <a href="https://github.com/Manikandan23-tech/-ODI-Cricket-Batting-Records-1990-2024-Excel-Dashboard-/blob/main/Cricket_Analytics_Dashboard_v2.pdf"> Individual Dashboards </a>
+  <img width="1454" height="705" alt="Dashboard" src="https://github.com/user-attachments/assets/b245d38a-ac0e-48af-a684-63201d5d3d02" />
+
